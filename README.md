@@ -1,5 +1,5 @@
 # Github Finder 
-- Github Hesaplarını Github API ile bulmamıza yarayan bir arama projesi.
+- Github Hesaplarını Github API ile bulmamızı sağlayan bir arama projesi.
 - Karanlık/Aydınlık Mod Aktif.
 
 # Kullanılan Teknolojiler
