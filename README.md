@@ -6,13 +6,16 @@
 - JS 
 - HTML
 
-# Ekran Görüntü ve Kaydı
+# Ekran Görüntüleri
 ![](images/githubscreen1.png)
 ![](images/githubscreen2.png)
 ![](images/githubscreen3.png)
 ![](images/githubscreen4.png)
 ![](images/githubscreen5.png)
 ![](images/githubscreen6.png)
+
+# Detaylı  Video İçin
+https://www.linkedin.com/feed/update/urn:li:activity:7116389325843443712/
 
 # Yol Haritası
 
